@@ -31,7 +31,7 @@ CATEGORY char(100)
 
 select * from pre_diwali;  
 select * from post_diwali;
-/*how many category are there in pre_diwali*/
+/*how many category are there in pre_diwali ?*/
 select distinct category
 from pre_diwali;
 /*how many category are their in post diwali*/
